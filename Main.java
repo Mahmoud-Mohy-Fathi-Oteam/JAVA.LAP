@@ -1,6 +1,6 @@
 package InterfaceCircle;
 import java.util.*;
-public class Main {
+public class MainCircleCylinder {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int b;
